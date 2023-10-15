@@ -1,0 +1,57 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8dede;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header h1,h2 {
+    font-family: 'Times New Roman', serif;
+    color: #470212;
+}
+
+.title {
+    font-family: 'CustomTitleFont', sans-serif;
+    font-size: 36px;
+    color: rgb(135, 51, 51);
+    margin-top: 20px;
+}
+
+.lyrics {
+    font-family: 'CustomLyricsFont', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(166, 84, 84);
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.verse {
+    font-style: italic;
+    margin: 10px 0;
+}
+
+.chorus {
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.footer {
+    font-family: 'CustomFooterFont', sans-serif;
+    font-size: 16px;
+    color: rgb(104, 40, 40);
+    margin-bottom: 20px;
+}
+
+.lyrics-container {
+    background-color: rgb(166, 158, 158);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
